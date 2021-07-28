@@ -1,0 +1,8 @@
+alibi-detect
+jupyter
+wilds==1.1.0
+torch
+torch_scatter
+torchvision
+numpy
+
