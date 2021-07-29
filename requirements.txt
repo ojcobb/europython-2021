@@ -5,4 +5,5 @@ torch
 torch_scatter
 torchvision
 numpy
+matplotlib
 
